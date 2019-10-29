@@ -1,4 +1,4 @@
-def help
+def help(name)
  puts "/n I accept the following commands:
 - help : displays this help message
 - list : displays a list of songs you can play
