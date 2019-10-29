@@ -5,4 +5,5 @@ def help(name)
 - play : lets you choose a song to play
 - exit : exits this program" 
 end 
-help
+help(name)
+end
